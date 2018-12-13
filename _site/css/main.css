@@ -1258,7 +1258,7 @@ html[xmlns] .flexslider .slides {
   margin: 0;
   padding: 0;
   position: relative;
-  -webkit-tap-highlight-color: #f38f9e;
+  -webkit-tap-highlight-color: #d31634;
   text-align: left;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -1294,7 +1294,7 @@ html[xmlns] .flexslider .slides {
       width: 100%;
       transition: all 0.15s ease-out 0s; }
       .jp-audio .jp-controls a:hover {
-        color: #f38f9e; }
+        color: #d31634; }
   .jp-audio .jp-progress {
     background-color: #fff;
     height: 10px;
@@ -1303,7 +1303,7 @@ html[xmlns] .flexslider .slides {
       cursor: pointer;
       height: 100%; }
     .jp-audio .jp-progress .jp-play-bar {
-      background-color: #f38f9e;
+      background-color: #d31634;
       height: 100%;
       width: 0; }
   .jp-audio .timekeeper {
@@ -1664,7 +1664,7 @@ a {
   text-decoration: none; }
   a:hover {
     text-decoration: none;
-    color: #f38f9e; }
+    color: #d31634; }
   a:visited {
     text-decoration: none; }
 
@@ -1675,7 +1675,7 @@ a {
   border: 1px solid #ea324f;
   border-radius: 0px; }
   .button:hover, .button-ghost:hover, button:hover, input[type="button"]:hover, input[type="submit"]:hover {
-    background: #f38f9e;
+    background: #d31634;
     border: 1px solid #ea324f;
     color: white; }
   .button:visited, .button-ghost:visited, button:visited, input[type="button"]:visited, input[type="submit"]:visited {
@@ -1693,8 +1693,8 @@ a {
   border-color: #ea324f;
   color: #ea324f; }
   .button-ghost.brand:hover {
-    border-color: #f38f9e;
-    color: #f38f9e; }
+    border-color: #d31634;
+    color: #d31634; }
 
 table tr, table td {
   border-bottom: 1px solid gray;
@@ -1956,7 +1956,7 @@ table tr, table td {
   .author-attribution a {
     color: white; }
     .author-attribution a:hover {
-      color: #f38f9e; }
+      color: #d31634; }
 
 .post-share {
   text-align: center;
@@ -2064,7 +2064,8 @@ table tr, table td {
 .post-cta {
   font-size: 18px;
   text-align: center;
-  margin-bottom: 2rem; }
+  margin-bottom: 2rem;
+  font-weight: bold; }
 
 .socials {
   padding: 0.7rem;
@@ -2083,16 +2084,16 @@ table tr, table td {
     border-radius: 50%;
     transition: all 0.15s ease-out 0s; }
     .socials svg:hover {
-      fill: #f38f9e;
+      fill: #d31634;
       background: transparent;
-      color: #f38f9e;
+      color: #d31634;
       box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
       -webkit-transform: scale(1.05);
       transform: scale(1.05);
       -webkit-transform: translateY(-0.2rem);
       transform: translateY(-0.2rem); }
     .socials svg:active {
-      box-shadow: 0 0 0 #f38f9e;
+      box-shadow: 0 0 0 #d31634;
       -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
 
@@ -2105,7 +2106,7 @@ table tr, table td {
     width: 5rem;
     fill: #ea324f; }
     .about .socials svg:hover {
-      fill: #f38f9e; }
+      fill: #d31634; }
 
 .footer-socials .socials {
   text-align: center;
@@ -2121,7 +2122,7 @@ table tr, table td {
     fill: #ea324f;
     transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
     .footer-socials .socials svg:hover {
-      fill: #f38f9e;
+      fill: #d31634;
       background: transparent; }
 
 @media (max-width: 1450px) {
@@ -2354,7 +2355,7 @@ table tr, table td {
   top: 0.5rem;
   margin-right: 0.1rem; }
   .vyral-logo:hover {
-    fill: #f38f9e; }
+    fill: #d31634; }
 
 .footer-pad {
   padding-top: 20px; }
@@ -2436,7 +2437,7 @@ table tr, table td {
     cursor: pointer;
     transition: all 0.15s ease-out 0s; }
     .testimonial-navigation a:hover {
-      color: #f8bdc6; }
+      color: #ea324f; }
   .testimonial-navigation h3 {
     padding: 0 10px;
     text-align: center; }
@@ -2488,7 +2489,7 @@ form select {
     padding: 1rem;
     border: 3px solid #ea324f; }
     .home-value input[type="submit"]:hover {
-      border: 3px solid #f38f9e; }
+      border: 3px solid #d31634; }
 
 .contact-form {
   width: 75%;
