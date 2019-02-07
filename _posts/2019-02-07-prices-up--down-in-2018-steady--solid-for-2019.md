@@ -15,8 +15,8 @@ youtube_alternate_image:
 youtube_code:
 ---
 
-![](/uploads/stafford-header-2-7-19.png)
+![](/uploads/stafford-header-2-7-19.png)![](/uploads/stafford-header-2-7-19-1.png)
 
-![](/uploads/stafford-article-2-7-2019.png)
+![](/uploads/stafford-article-2-7-2019.png)![](/uploads/stafford-article-2-7-2019-1.png)
 
 {% include pullquote.html %}
