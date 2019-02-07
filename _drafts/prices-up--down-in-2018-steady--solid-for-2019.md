@@ -3,7 +3,9 @@ layout: post
 title: 'Prices Up & Down in 2018, Steady & Solid for 2019'
 date:
 tags:
-excerpt:
+  - Real Estate
+  - Market Update
+excerpt: Stafford's Housing Market Year in Review & 2019 Forecast
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -12,6 +14,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
-{% include youtube.html %}
+
+![](/uploads/stafford-header-2-7-19.png)
+
+![](/uploads/stafford-article-2-7-2019.png)
 
 {% include pullquote.html %}
