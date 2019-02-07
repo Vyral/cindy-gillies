@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Prices Up & Down in 2018, Steady & Solid for 2019'
-date:
+date: 2019-02-07 18:01:47
 tags:
   - Real Estate
   - Market Update
