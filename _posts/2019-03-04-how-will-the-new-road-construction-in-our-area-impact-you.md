@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/iYe2BlwzJPg'
 
 {% include youtube.html %}
 
-As you know, some considerable highway expansion is about to take place along the Capital Beltway.
+As you know, some considerable highway expansion is about to take place along the Capital Beltway. This segment is part 1 of a 2 part series we put together covering the expansion.
 
 Governor Northam recently announced that **the company Transurban would be building three miles’ worth of HOV road extension along I-495 near the American Legion Memorial Bridge.** This is a heavy-traffic area, and many people in our area use I-495 to commute to work. Additionally, Transurban will be extending the HOV lanes on the center median of I-495 all the way down to the Falmouth interchange.&nbsp;
 
