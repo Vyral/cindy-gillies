@@ -1,13 +1,14 @@
 ---
 layout: post
 title: How Will the New Road Construction in Our Area Impact You?
-date: 2019-03-04 14:22:50
+date: 2019-03-04 14:22:00
 tags:
   - Real Estate
 excerpt: >-
   Some important road construction projects are happening in the
   Stafford/Fredericksburg area, and today I’ll tell you all about them.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Cindy+Gillies/Videos/March+2019/Stafford+%26+Fredericksburg+Real+Estate+Agent-+Important+Highway+Expansion+Happening+in+Our+Area.mp4
 pullquote: >-
   This is an exciting development, and billions of dollars of investment are
   being poured into it.
