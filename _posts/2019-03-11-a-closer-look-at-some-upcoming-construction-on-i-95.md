@@ -18,7 +18,7 @@ youtube_code: 'https://youtu.be/l_FehnI2rpo'
 
 {% include youtube.html %}
 
-As agents, we tend to be in our car a lot. A question I hear all the time is, “What’s going on with all the road projects in the area?” Today I’m going to take you through a little tour of Stafford near I-95 and talk about some of the current and future projects that are planned and what that might mean for you. **Here’s an outline of the video, with timestamps so that you can skip ahead to the section(s) that interest you the most.**
+Today we'll be covering the final part of a 2 part series on the upcoming road construction.&nbsp;<br><br>As agents, we tend to be in our car a lot. A question I hear all the time is, “What’s going on with all the road projects in the area?” Now I’m going to take you through a little tour of Stafford near I-95 and talk about some of the current and future projects that are planned and what that might mean for you. **Here’s an outline of the video, with timestamps so that you can skip ahead to the section(s) that interest you the most.**
 
 0:55- An intro to VDOT’s “Mega Projects” on I-95<br>2:25- The I-95 Express Lane Extension<br>3:20- The Rappahannock River Crossing (southbound)<br>5:35- The Rappahannock River Crossing (northbound)<br>6:26- How these projects will affect the everyday lives of those who live here
 
