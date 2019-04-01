@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   The upcoming road construction projects on I-95 will undoubtedly affect the
   commute of many of you. Here’s some more information about what is planned.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Cindy+Gillies/Videos/2019/April/Stafford+%26+Fredericksburg+Real+Estate+Agent-+How+Will+Future+I-95+Construction+Affect+Your+Commute_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
