@@ -19,7 +19,7 @@ youtube_code:
 
 ![](/uploads/webp-net-resizeimage-15.png)
 
-![](/uploads/webp-net-resizeimage.png)
+[![](/uploads/webp-net-resizeimage.png)](https://adobeindd.com/view/publications/7f2326f5-dd49-42fe-9737-10f5d0632ba2/nkjf/publication-web-resources/pdf/22253_GilliesMichael_0419.pdf){: target="_blank"}
 
 **Looking to buy in the Stafford/Fredericksburg area?**&nbsp;**<u><a target="_blank" href="https://www.staffordfredericksburghomesearch.com/search/">Perform a Full Home Search</a></u>**<br>**Looking to sell in the Stafford/Fredericksburg area?**&nbsp;<u><strong><a target="_blank" href="https://www.staffordfredericksburghomesearch.com/homevalue/StaffordVA">Get a free Home Price Evaluation</a></strong></u>
 
