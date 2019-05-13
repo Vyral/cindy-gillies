@@ -5,7 +5,9 @@ date: 2019-05-12 18:29:00
 tags:
   - Real Estate
   - Market Update
-excerpt: Stafford's Housing Market Year in Review & 2019 Forecast
+excerpt: >-
+  It’s around April and May when parents decide to move to a desirable school
+  district, when couples look for a home that will accommodate a...
 enclosure:
 pullquote:
 enclosure_type: video/mp4
