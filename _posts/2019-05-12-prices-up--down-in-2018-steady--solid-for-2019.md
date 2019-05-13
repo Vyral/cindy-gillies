@@ -17,7 +17,7 @@ youtube_code:
 
 ![](/uploads/webp-net-resizeimage-15.png)
 
-![](/uploads/webp-net-resizeimage-16.png)
+![](/uploads/webp-net-resizeimage.png)
 
 **Looking to buy in the Stafford/Fredericksburg area?**&nbsp;**<u><a target="_blank" href="https://www.staffordfredericksburghomesearch.com/search/">Perform a Full Home Search</a></u>**<br>**Looking to sell in the Stafford/Fredericksburg area?**&nbsp;<u><strong><a target="_blank" href="https://www.staffordfredericksburghomesearch.com/homevalue/StaffordVA">Get a free Home Price Evaluation</a></strong></u>
 
