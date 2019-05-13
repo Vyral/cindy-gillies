@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/youtube-cover-2-7-19-1.png
+youtube_alternate_image: /uploads/cloudcannon-thumbnail-5-13-19.png
 youtube_code:
 ---
 
@@ -21,6 +21,6 @@ youtube_code:
 
 **Looking to buy in the Stafford/Fredericksburg area?**&nbsp;**<u><a target="_blank" href="https://www.staffordfredericksburghomesearch.com/search/">Perform a Full Home Search</a></u>**<br>**Looking to sell in the Stafford/Fredericksburg area?**&nbsp;<u><strong><a target="_blank" href="https://www.staffordfredericksburghomesearch.com/homevalue/StaffordVA">Get a free Home Price Evaluation</a></strong></u>
 
-After all the exhilaration of last year’s roller coaster of a housing market (which was a virtual clone of 2017), we’re looking ahead to a very reliable, strong real estate market in 2019. We ended the year feeling a distinct softening for sellers at around 27% fewer units sold countywide compared to last December (126 vs 176). The median sale price – which is a much more reliable market indicator than average sale price – was up 2% in 2018 year-over-year from $330,000 to $335,000. Days-on-Market in December 2018 (how long it takes a home to enter contract once it’s been listed) averaged 69 days, which was a 5% decrease than the December ’17. That means homes sold slightly faster at the end of 2018 compared to 2017; however, active inventory was almost identical for both periods. We are seeing Stafford numbers come in very similar on most metrics. To read the full newsletter, follow <u><a target="_blank" href="https://adobeindd.com/view/publications/7f2326f5-dd49-42fe-9737-10f5d0632ba2/nkjf/publication-web-resources/pdf/22253_GilliesMichael_0419.pdf"><strong>this link</strong></a>.</u>
+It’s that wonderful time of year again\! The sun is shining longer and longer, coats are spending more time in the closet, and lawnmowers are humming on the weekends. Stafford and Fredericksburg families are planning their next move right now, and home sellers with a well-executed strategy are in a position to win big.<br><br>It’s around April and May when parents decide to move to a desirable school district, when couples look for a home that will accommodate an aging parent, and when families opt to upsize or downsize. In addition to the constraints of the school year, buyers are often more motivated to move this time of year because calm weather and low-key schedules make for ideal moving conditions. To read the full newsletter, follow <u><a target="_blank" href="https://adobeindd.com/view/publications/7f2326f5-dd49-42fe-9737-10f5d0632ba2/nkjf/publication-web-resources/pdf/22253_GilliesMichael_0419.pdf"><strong>this link</strong></a>.</u>
 
 If you have any questions or would like more information on the real estate market, feel free to give me a call or send me an email. I look forward to hearing from you soon.
