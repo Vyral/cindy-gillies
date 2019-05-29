@@ -10,8 +10,8 @@ enclosure:
 pullquote: 'Although buyer activity has slowed, properties are still definitely selling.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/option-1.jpg
+use_youtube_image: false
+youtube_alternate_image: /uploads/gillies-springmarketupdate-youtube.jpg
 youtube_code: 'https://youtu.be/4-dNl5nmqq4'
 ---
 
