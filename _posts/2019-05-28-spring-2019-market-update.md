@@ -7,12 +7,14 @@ tags:
   - Market Update
 excerpt: What’s happening right now in our market? Find out with this quick update.
 enclosure:
-pullquote: 'Although buyer activity has slowed, properties are still definitely selling.'
+pullquote: >-
+  Although buyer activity has slowed, properties are still in great shape and
+  things are definitely selling.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/gillies-springmarketupdate-youtube.jpg
-youtube_code: 'https://youtu.be/4-dNl5nmqq4'
+youtube_code: 'https://youtu.be/4UbYFrLZcqg'
 ---
 
 {% include youtube.html %}
@@ -21,9 +23,9 @@ It’s hard to believe that spring is already upon us, but now that it is, it’
 
 There are currently 592 active listings in our local market with an additional 482 homes currently under contract. **These numbers are fairly standard for what one would expect of this time of year, so this bodes well for the general health of our market.&nbsp;**
 
-Interestingly enough, the number of homes sold this year (753) is nearly identical to the number that sold last year (752).&nbsp;
+Interestingly enough, the number of homes sold this year (753) is nearly identical to the number that sold last year (752) for the same time period.&nbsp;
 
-The average amount of time homes are spending on the market, however, has definitely increased. Between January 1 through the end of April, single-family homes spent an average of 58 days on market in 2018. This year, the average days on market across all properties is 77, while the current average for single-family homes is more than 80 days. This is something we’re definitely proud of.
+When you look at all home types (SF + TH and Condos) - the Average Price up about 10K\! Yet the average amount of time homes are spending on the market has increased from an average of 58 days on market in 2018 to 77 for the same period this year.
 
 {% include pullquote.html %}
 
