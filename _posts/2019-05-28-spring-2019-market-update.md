@@ -25,7 +25,7 @@ There are currently 592 active listings in our local market with an additional 4
 
 Interestingly enough, the number of homes sold this year (753) is nearly identical to the number that sold last year (752) for the same time period.&nbsp;
 
-When you look at all home types (SF + TH and Condos) - the Average Price up about 10K\! Yet the average amount of time homes are spending on the market has increased from an average of 58 days on market in 2018 to 77 for the same period this year.
+When you look at all home types (SF + TH and Condos) - the Average Price is up about 10K\! Yet the average amount of time homes are spending on the market has increased from an average of 58 days on market in 2018 to 77 for the same period this year.
 
 {% include pullquote.html %}
 
