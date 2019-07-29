@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/wa20taGelZk'
 
 {% include youtube.html %}
 
-It is Mid-July now, which means two things. First, I missed my chance to send you all a greeting for the Fourth, which I hope you enjoyed. Second, it’s hot out here and I am excited to highlight an awesome Stafford community today, Augustine North.&nbsp;
+It is Mid-July now, which means two things. First, I missed my chance to send you all a greeting for the Fourth, which I hope you enjoyed. Second, it’s hot out here and I am excited to highlight an awesome Stafford community today: Augustine North.&nbsp;
 
 **Augustine is a unique community in our area.** It’s one of &nbsp;few communities that center around a gorgeous golf course and the amenities that go along with it. When you look at Augustine, the golf course is usually the first thing that comes to mind, but it’s not the only thing that should.
 
