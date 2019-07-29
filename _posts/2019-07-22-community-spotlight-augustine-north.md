@@ -9,7 +9,7 @@ excerpt: >-
   Augustine is a great little community that I’d like to show you today. Come
   see for yourself why it’s such a popular place to live.
 enclosure:
-pullquote: Most lots are between a third and a half of an acre.
+pullquote: Most lots are between a third and a half an acre.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -23,7 +23,7 @@ It is Mid-July now, which means two things. First, I missed my chance to send yo
 
 **Augustine is a unique community in our area.** It’s one of &nbsp;few communities that center around a gorgeous golf course and the amenities that go along with it. When you look at Augustine, the golf course is usually the first thing that comes to mind, but it’s not the only thing that should.
 
-**In addition to the great course, homes on Augustine are unique in their lot size.** They range anywhere from a quarter acre to an acre and a half or more. Most lots are somewhere between a third and a half of an acre. It’s a nice middle ground where the lots aren’t small, but they don’t have to be huge either.
+**In addition to the great course, homes in Augustine are unique in their lot size.** They range anywhere from a quarter acre to an acre and a half or more. Most lots are somewhere between a third and a half an acre. It’s a nice middle ground where the lots aren’t small, but they don’t have to be huge either.
 
 {% include pullquote.html %}
 
