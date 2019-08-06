@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/cover-photo-8-06-19.png
 youtube_code:
 ---
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg==){: .cms-image-placeholder}![](/uploads/webp-net-resizeimage-4.png){: width="1050" height="250"}![](/uploads/8-06-19-screenshot.png){: width="1096" height="825"}
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg==){: .cms-image-placeholder}![](/uploads/webp-net-resizeimage-4.png){: width="1050" height="250"}[![](/uploads/8-06-19-screenshot.png){: width="1096" height="825"}](https://indd.adobe.com/view/fdc8f981-8d33-4607-ab55-8bdf308381b1){: target="_blank"}
 
 Looking to buy in the Stafford/Fredericksburg area? <u><strong><a target="_blank" href="https://www.staffordfredericksburghomesearch.com/search/">Perform a Full Home Search</a></strong></u><br>Looking to sell in the Stafford/Fredericksburg area? <u><strong><a target="_blank" href="https://www.staffordfredericksburghomesearch.com/homevalue/StaffordVA">Get a free Home Price Evaluation</a></strong></u>
 
