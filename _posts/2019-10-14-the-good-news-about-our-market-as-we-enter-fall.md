@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/gillies---the-good-news-about-our-market-as-we-enter-fall-youtube.jpg
-youtube_code: 'https://youtu.be/qKvFBH-94Sw'
+youtube_code: 'https://youtu.be/EfQhXGFPCng'
 ---
 
 {% include youtube.html %}
