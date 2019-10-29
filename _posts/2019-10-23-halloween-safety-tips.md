@@ -13,7 +13,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/gillies---make-sure-you-have-a-safe-happy-halloween-with-these-quick-tips-youtube.jpg
-youtube_code: 'https://youtu.be/fPLRiJ0Fei8'
+youtube_code: 'https://youtu.be/5WvBwtRBhZA'
 ---
 
 {% include youtube.html %}Halloween is almost here, so today I’m joined by some of the raving Halloween fans right here in our office to share some quick tips to ensure you have a safe, happy Halloween. For example, if you’ll be driving around during the night, make sure you slow down and watch for kids crossing the street. If you’re a parent and you’ll be out trick-or-treating with your kids, don’t forget to bring along flashlights and glowsticks, and check your kids’ candy bags and make sure they only eat commercially wrapped candy.
