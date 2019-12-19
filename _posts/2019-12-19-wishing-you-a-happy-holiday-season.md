@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wishing You a Happy Holiday Season
-date:
+date: 2019-12-19 22:48:39
 tags:
   - Real Estate
 excerpt: >-
@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/holiday-placeholder-image.jpg
+youtube_alternate_image: /uploads/gillies---wishing-you-a-happy-holiday-season-youtube.jpg
 youtube_code: X5HlkhvrCEw
 ---
 
