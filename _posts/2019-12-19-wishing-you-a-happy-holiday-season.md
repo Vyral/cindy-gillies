@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wishing You a Happy Holiday Season
-date: 2019-12-19 22:48:39
+date: 2019-12-19 22:48:00
 tags:
   - Real Estate
 excerpt: >-
