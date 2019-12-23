@@ -21,7 +21,7 @@ youtube_code: X5HlkhvrCEw
 
 *As we head into the holiday season, we wanted to send our thanks and give you some fun new ways to get your kids into the holiday spirit.*
 
-We’re in the thick of the holiday season and, today I’m joined by three special guests: Tinsel, Snowflake, and Jingle the mischievous reindeer. These are our “elves on the shelves” who are keeping our kids entertained while they wait for Santa on Christmas. This got us thinking back on our year and how you all have played such an important part in making it great. Today we just wanted to let you know that you are always a bright spot in our day and we hope you have a wonderful holiday season and a happy New Year.
+We’re in the thick of the holiday season and, today I’m joined by three special guests: Tinsel, Snowflake, and Jingle - the mischievous reindeer. These are our Elf on the Shelf buddies and they are keeping a close eye on our kiddos while they wait for Santa this Christmas. Just like keeping our elves occupied every morning, we spend so much of our year bouncing from one busy day to the next and don't always soak in the amazing things going on around us. You all have played such an important part in making &nbsp;our year incredible and taking the time to reflect on this is one of the best parts of this time of year. Today we just wanted to let you know that you are always a bright spot in our day and we hope you have a wonderful holiday season and a happy New Year.&nbsp;
 
 Our elves have been busy with our kids this year with everything from Christmas bingo to apparently getting part-time jobs at Chick-Fil-A.
 
