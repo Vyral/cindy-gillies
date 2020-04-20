@@ -9,7 +9,7 @@ excerpt: >-
   year, so we’re shifting those funds over to our new initiative GT RUNS. Here’s
   what we hope to accomplish with this program.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Cindy+Gillies/Videos/Heres+How+Were+Helping+out+During+This+Crisis.mp4
+  https://vyralmarketing.s3.amazonaws.com/Cindy+Gillies/Videos/Help+Us+Identify+Urgent+Needs+in+Our+Community.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
