@@ -15,7 +15,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/gillies-will-the-real-estate-market-initate-the-stock-market-youtube.jpg
-youtube_code: 'https://youtu.be/-qWXWMJ0zxk'
+youtube_code: Zl93OixjD5c
 ---
 
 {% include youtube.html %}
