@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Does the Real Estate Market follow the Stock Market?
-date: 2020-04-24 20:37:27
+date: 2020-04-24 20:37:00
 tags:
   - Real Estate
 excerpt: >-
@@ -20,4 +20,4 @@ youtube_code: 'https://youtu.be/-qWXWMJ0zxk'
 
 {% include youtube.html %}
 
-Most people have the majority of their net worth invested either in the stock market or the real estate market. But now that things have taken a drastic turn due to coronavirus, it’s important to establish whether or not the real estate market follows the same trends as the stock market. The stock market crash that occurred at the end of February was the sharpest decline seen since the collapse of 2008, and one of the worst crashes since the beginning of the Great Depression back in 1929. During the 2008 crash, the housing market followed soon behind the stock market, so why are we not seeing that same trend in 2020? To find out, watch the short video above.
+Most people have the majority of their net worth invested either in the stock market or the real estate market. But now that things have taken a drastic turn due to coronavirus, it’s important to establish whether or not the real estate market follows the same trends as the stock market. The stock market crash that occurred at the end of February was the sharpest decline seen since the collapse of 2008, and one of the worst crashes since the beginning of the Great Depression back in 1929. During the 2008 crash, the housing market collapsed soon after the stock market, so why are we not seeing that same trend in 2020? To find out, watch the short video above.
