@@ -50,23 +50,23 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.staffordfredericksburghomesearch.com/homevalue/StaffordVA
+  first_CTA_URL: https://gilliesteam.com/home-valuation/
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.staffordfredericksburghomesearch.com/search/
+  second_CTA_URL: https://gilliesteam.com/search/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "What’s Your Stafford/Fredericksburg Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: http://www.staffordfredericksburghomesearch.com/homevalue/StaffordVA
+    CTA_url: https://gilliesteam.com/home-valuation/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: "Looking for a Stafford/Fredericksburg Home?"
     CTA_text2: "Search the entire MLS for your Stafford/Fredericksburg home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: http://www.staffordfredericksburghomesearch.com/search/
+    CTA_url2: https://gilliesteam.com/search/
 
 lender:
   show_section: false
@@ -84,7 +84,7 @@ lender:
 socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/GilliesTeam/
-  linkedin_url: https://www.linkedin.com/in/cindygillies
+  linkedin_url: https://www.linkedin.com/company/the-gillies-team/?viewAsMember=true
   youtube_url: https://www.youtube.com/channel/UChdufbIqDiGCzzKAWgdcRUA
   twitter_url: https://twitter.com/gilliesteam
   instagram_url:
